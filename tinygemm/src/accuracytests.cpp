@@ -38,26 +38,30 @@ void elementwise_compare(const TFloat * c_before, double beta, const TFloat * c_
       max_relerr = relerr;
     }
   }
-  
-    if (max_relerr > threshold){
-      std::stringstream ss;
-      ss << "\nmax_relerr is above threshold, in basicfind.hpp. "; 
-      ss << "\nIndex in c : " << i_max << "\nValue before gemm call : " << c_before[i_max] << ". \nValue after call from cpu : "  << c_cpu[i_max] << ".  \nValue after call from gpu : " << c_gpu[i_max] << "  \nrelerr : " << max_relerr << "\n";
-      ss << "the first violating indices (above the threshold of " << threshold << ") were: \n";
-      for (unsigned bl= 0; bl < std::min<size_t>(10, violating_indices.size()); ++bl){
-        ss << " " << violating_indices[bl] << " (" << violating_margins[bl] << ") ";
-      }
-      
-      
-      ss << "\n{c before}  (cpu)  [gpu]\n";
-      for (unsigned i = 0; i < std::min<unsigned>(nels, 16); ++i){
-        ss << "{" << c_before[i] << "}  (" <<  c_cpu[i]  << ")  ["  << c_gpu[i] << "]" << "\n"; 
-       } 
-      
-      throw tinygemm::tinygemm_error(ss.str());
-    }
-  
   mowri << "max_relerr=" << max_relerr << Endl;
+  
+  if (true || max_relerr > threshold){
+    std::stringstream ss;
+    ss << "\nmax_relerr is above threshold, in basicfind.hpp. "; 
+    ss << "\nIndex in c : " << i_max << "\nValue before gemm call : " << c_before[i_max] << ". \nValue after call from cpu : "  << c_cpu[i_max] << ".  \nValue after call from gpu : " << c_gpu[i_max] << "  \nrelerr : " << max_relerr << "\n";
+    ss << "the first violating indices (above the threshold of " << threshold << ") were: \n";
+    for (unsigned bl= 0; bl < std::min<size_t>(10, violating_indices.size()); ++bl){
+      ss << " " << violating_indices[bl] << " (" << violating_margins[bl] << ") ";
+    }
+    
+    
+    ss << "\n{c before}  (cpu)  [gpu]\n";
+    for (unsigned i = 0; i < std::min<unsigned>(nels, 16); ++i){
+      ss << "{" << c_before[i] << "}  (" <<  c_cpu[i]  << ")  ["  << c_gpu[i] << "]" << "\n"; 
+     } 
+    
+    mowri << ss.str() << Endl;
+    if (max_relerr > threshold){
+      //mowri << "max_relerr=" <<  max_relerr << Endl;
+      throw tinygemm::tinygemm_error("Throwing ERROR");
+    }
+  }  
+  //mowri << "max_relerr=" <<  max_relerr << Endl;
 }
 
 template void elementwise_compare(const float * c_before, double beta, const float * c_cpu, const float * c_gpu, unsigned nels, tinygemm::outputwriting::OutputWriter & mowri);

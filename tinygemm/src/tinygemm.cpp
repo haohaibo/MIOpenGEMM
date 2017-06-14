@@ -878,6 +878,7 @@ bool use_mowri_tracker){
     c_copied.clmem = c_to_use;
   }
   
+
   else{
     c_to_use = c;
   }
@@ -1048,7 +1049,7 @@ find(float allotted_time, cl_command_queue command_queue, cl_mem a, cl_mem b, cl
   tinygemm::TinyGemmOffsets toff(0,0,0,0,0,0,0);
   
   /* complete silence (other than warnings and errors) */
-  bool verbose = true;
+  bool verbose = false;
   bool use_mowri_tracker = false;  
   outputwriting::OutputWriter mowri(verbose, false, "");
 
@@ -1079,7 +1080,7 @@ find(float allotted_time, cl_command_queue command_queue, cl_mem a, cl_mem b, cl
       ss << "\n\nReturing a generic cache entry\n";
 
       mowri << ss.str();
-      tinygemm_warning("\nvery limited search with no custom cache : expect a sub-optimal kernel(s) \n");
+      //tinygemm_warning("\nvery limited search with no custom cache : expect a sub-optimal kernel(s) \n");
       solution = get_default(tgg);
     }
     
@@ -1110,6 +1111,10 @@ find(float allotted_time, cl_command_queue command_queue, cl_mem a, cl_mem b, cl
     }
   }
   
+  
+  //TODO here : final check that it's not hyperstring and geometry are not crazy!
+  std::cout << tgg.get_string() << std::endl;
+  std::cout << solution.hyper_param_string << std::endl;
   return solution;
 
 }

@@ -94,7 +94,7 @@ TinygemmCachedSolution get_generic_cached_solution(const std::string & constrain
     cached_soln = {"A_MIC8_PAD1_PLU0_LIW0_MIW1_WOS0__B_MIC6_PAD2_PLU1_LIW1_MIW0_WOS0__C_UNR8_GAL2_PUN0_ICE1_NAW16_UFO0_MAC256_SKW10", {0,0,0, "None", {200, 10, 3, Max}}};
   }
   
-  else if (gg.m*gg.n > 800*800 && gg.m >=  256. && gg.n >= 128){ /* was 3095 on a Fiji on Tue May 16 08:46:49 2017  */
+  else if (gg.m*gg.n > 800*800 && gg.m >=  256 && gg.n >= 128){ /* was 3095 on a Fiji on Tue May 16 08:46:49 2017  */
     cached_soln = {"A_MIC8_PAD1_PLU0_LIW0_MIW1_WOS0__B_MIC4_PAD0_PLU1_LIW0_MIW0_WOS0__C_UNR16_GAL1_PUN1_ICE1_NAW64_UFO0_MAC256_SKW10", {0,0,0, "None", {200, 10, 3, Max}}};
   }
   
