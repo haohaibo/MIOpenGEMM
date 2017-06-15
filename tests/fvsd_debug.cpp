@@ -107,8 +107,10 @@ int test_loop(){
   tinygemm::outputwriting::OutputWriter mowri(true, fout != "" , fout);
   
   char ft = sizeof(TFloat) == 4 ? 'f' : 'd';
-  for (auto & test : get_tests(ft)){
+  //for (auto & test : get_tests(ft)){
   
+  {
+    auto test = get_tests(ft)[0];
     auto hyperstring = std::get<0>(test);
     auto ggstring = std::get<1>(test);
 
