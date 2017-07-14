@@ -1115,7 +1115,7 @@ std::tuple<bool, std::string> check_for_default(cl_command_queue command_queue,
 {
 
   openclutil::OpenCLDeviceInfo devinfo(command_queue);
-  std::string                  k_dev = devinfo.identifier;
+  std::string                  k_dev = "generictemp"; // big hack.  //devinfo.identifier;
   std::string                  k_con = constraints_string;
   std::string                  k_geo = gg.get_string();
 
@@ -1188,7 +1188,7 @@ Solution get_default(cl_command_queue             command_queue,
 
   openclutil::OpenCLDeviceInfo devinfo(command_queue);
 
-  std::string k_dev = devinfo.identifier;
+  std::string k_dev = "generictemp"; //devinfo.identifier;
   std::string k_con = constraints_string;
   std::string k_geo = gg.get_string();
 

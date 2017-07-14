@@ -54,7 +54,7 @@ int go(bool only_deepbench)
   for (auto& x : MIOpenGEMM::kernel_cache)
   {
     auto identifier = x.first;
-    if (identifier == devinfo.identifier)
+    if (true || (identifier == devinfo.identifier))
     {
       for (auto& y : x.second)
       {
@@ -86,7 +86,7 @@ int go(bool only_deepbench)
   for (auto& x : MIOpenGEMM::kernel_cache)
   {
     auto identifier = x.first;
-    if (identifier == devinfo.identifier)
+    if (true || (identifier == devinfo.identifier))
     {
       std::cout << "\nCACHE DEIVCE ID: " << identifier << std::endl;
       for (auto& y : x.second)

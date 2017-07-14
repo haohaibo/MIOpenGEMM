@@ -1,6 +1,6 @@
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m5124_n9124_k1760_lda5124_ldb1760_ldc5124_ws1_"
           "f32", /* geometry key */
@@ -19,7 +19,7 @@ add_entry(kc,
                                            summmary over runs */
 
 add_entry(kc,
-          "gfx803",                                                          /* device key */
+          "generictemp",                                                          /* device key */
           "A_WOS0__B_WOS0",                                                  /* constraint key */
           "tC0_tA0_tB0_colMaj1_m35_n8457_k1760_lda35_ldb1760_ldc35_ws1_f32", /* geometry
                                                                                 key */
@@ -37,7 +37,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m5124_n9124_k2048_lda5124_ldb2048_ldc5124_ws1_"
           "f32", /* geometry key */
@@ -56,7 +56,7 @@ add_entry(kc,
                                            summmary over runs */
 
 add_entry(kc,
-          "gfx803",                                                          /* device key */
+          "generictemp",                                                          /* device key */
           "A_WOS0__B_WOS0",                                                  /* constraint key */
           "tC0_tA0_tB0_colMaj1_m35_n8457_k2048_lda35_ldb2048_ldc35_ws1_f32", /* geometry
                                                                                 key */
@@ -74,7 +74,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m5124_n9124_k2560_lda5124_ldb2560_ldc5124_ws1_"
           "f32", /* geometry key */
@@ -93,7 +93,7 @@ add_entry(kc,
                                            summmary over runs */
 
 add_entry(kc,
-          "gfx803",                                                          /* device key */
+          "generictemp",                                                          /* device key */
           "A_WOS0__B_WOS0",                                                  /* constraint key */
           "tC0_tA0_tB0_colMaj1_m35_n8457_k2560_lda35_ldb2560_ldc35_ws1_f32", /* geometry
                                                                                 key */
@@ -111,7 +111,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m5124_n9124_k4096_lda5124_ldb4096_ldc5124_ws1_"
           "f32", /* geometry key */
@@ -130,7 +130,7 @@ add_entry(kc,
                                            summmary over runs */
 
 add_entry(kc,
-          "gfx803",                                                          /* device key */
+          "generictemp",                                                          /* device key */
           "A_WOS0__B_WOS0",                                                  /* constraint key */
           "tC0_tA0_tB0_colMaj1_m35_n8457_k4096_lda35_ldb4096_ldc35_ws1_f32", /* geometry
                                                                                 key */
@@ -148,7 +148,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m5124_n9124_k1760_lda1760_ldb1760_ldc5124_ws1_"
           "f32", /* geometry key */
@@ -167,7 +167,7 @@ add_entry(kc,
                                            summmary over runs */
 
 add_entry(kc,
-          "gfx803",                                                            /* device key */
+          "generictemp",                                                            /* device key */
           "A_WOS0__B_WOS0",                                                    /* constraint key */
           "tC0_tA1_tB0_colMaj1_m35_n8457_k1760_lda1760_ldb1760_ldc35_ws1_f32", /* geometry
                                                                                   key
@@ -186,7 +186,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m5124_n9124_k2048_lda2048_ldb2048_ldc5124_ws1_"
           "f32", /* geometry key */
@@ -205,7 +205,7 @@ add_entry(kc,
                                            summmary over runs */
 
 add_entry(kc,
-          "gfx803",                                                            /* device key */
+          "generictemp",                                                            /* device key */
           "A_WOS0__B_WOS0",                                                    /* constraint key */
           "tC0_tA1_tB0_colMaj1_m35_n8457_k2048_lda2048_ldb2048_ldc35_ws1_f32", /* geometry
                                                                                   key
@@ -224,7 +224,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m5124_n9124_k2560_lda2560_ldb2560_ldc5124_ws1_"
           "f32", /* geometry key */
@@ -243,7 +243,7 @@ add_entry(kc,
                                            summmary over runs */
 
 add_entry(kc,
-          "gfx803",                                                            /* device key */
+          "generictemp",                                                            /* device key */
           "A_WOS0__B_WOS0",                                                    /* constraint key */
           "tC0_tA1_tB0_colMaj1_m35_n8457_k2560_lda2560_ldb2560_ldc35_ws1_f32", /* geometry
                                                                                   key
@@ -262,7 +262,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m5124_n9124_k4096_lda4096_ldb4096_ldc5124_ws1_"
           "f32", /* geometry key */
@@ -281,7 +281,7 @@ add_entry(kc,
                                            summmary over runs */
 
 add_entry(kc,
-          "gfx803",                                                            /* device key */
+          "generictemp",                                                            /* device key */
           "A_WOS0__B_WOS0",                                                    /* constraint key */
           "tC0_tA1_tB0_colMaj1_m35_n8457_k4096_lda4096_ldb4096_ldc35_ws1_f32", /* geometry
                                                                                   key
@@ -300,7 +300,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m7680_n16_k2560_lda7680_ldb2560_ldc7680_ws1_f32", /* geometry
                                                                                     key
@@ -319,7 +319,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m7680_n32_k2560_lda7680_ldb2560_ldc7680_ws1_f32", /* geometry
                                                                                     key
@@ -338,7 +338,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m7680_n64_k2560_lda7680_ldb2560_ldc7680_ws1_f32", /* geometry
                                                                                     key
@@ -357,7 +357,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m7680_n128_k2560_lda7680_ldb2560_ldc7680_ws1_"
           "f32", /* geometry key */
@@ -376,7 +376,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m7680_n16_k2560_lda2560_ldb2560_ldc7680_ws1_f32", /* geometry
                                                                                     key
@@ -395,7 +395,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m7680_n32_k2560_lda2560_ldb2560_ldc7680_ws1_f32", /* geometry
                                                                                     key
@@ -414,7 +414,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m7680_n64_k2560_lda2560_ldb2560_ldc7680_ws1_f32", /* geometry
                                                                                     key
@@ -433,7 +433,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m7680_n128_k2560_lda2560_ldb2560_ldc7680_ws1_"
           "f32", /* geometry key */
@@ -452,7 +452,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m3072_n16_k1024_lda3072_ldb1024_ldc3072_ws1_f32", /* geometry
                                                                                     key
@@ -471,7 +471,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m3072_n32_k1024_lda3072_ldb1024_ldc3072_ws1_f32", /* geometry
                                                                                     key
@@ -490,7 +490,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m3072_n64_k1024_lda3072_ldb1024_ldc3072_ws1_f32", /* geometry
                                                                                     key
@@ -509,7 +509,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m3072_n128_k1024_lda3072_ldb1024_ldc3072_ws1_"
           "f32", /* geometry key */
@@ -528,7 +528,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m3072_n16_k1024_lda1024_ldb1024_ldc3072_ws1_f32", /* geometry
                                                                                     key
@@ -547,7 +547,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m3072_n32_k1024_lda1024_ldb1024_ldc3072_ws1_f32", /* geometry
                                                                                     key
@@ -566,7 +566,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m3072_n64_k1024_lda1024_ldb1024_ldc3072_ws1_f32", /* geometry
                                                                                     key
@@ -585,7 +585,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m3072_n128_k1024_lda1024_ldb1024_ldc3072_ws1_"
           "f32", /* geometry key */
@@ -604,7 +604,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB1_colMaj1_m3072_n7435_k1024_lda3072_ldb7435_ldc3072_ws1_"
           "f32", /* geometry key */
@@ -623,7 +623,7 @@ add_entry(kc,
                                            summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB1_colMaj1_m7680_n5481_k2560_lda7680_ldb5481_ldc7680_ws1_"
           "f32", /* geometry key */
@@ -642,7 +642,7 @@ add_entry(kc,
                                            summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m1760_n16_k1760_lda1760_ldb1760_ldc1760_ws1_f32", /* geometry
                                                                                     key
@@ -661,7 +661,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m1760_n32_k1760_lda1760_ldb1760_ldc1760_ws1_f32", /* geometry
                                                                                     key
@@ -680,7 +680,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m1760_n64_k1760_lda1760_ldb1760_ldc1760_ws1_f32", /* geometry
                                                                                     key
@@ -699,7 +699,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m1760_n128_k1760_lda1760_ldb1760_ldc1760_ws1_"
           "f32", /* geometry key */
@@ -718,7 +718,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m1760_n7000_k1760_lda1760_ldb1760_ldc1760_ws1_"
           "f32", /* geometry key */
@@ -737,7 +737,7 @@ add_entry(kc,
                                            summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m2048_n16_k2048_lda2048_ldb2048_ldc2048_ws1_f32", /* geometry
                                                                                     key
@@ -756,7 +756,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m2048_n32_k2048_lda2048_ldb2048_ldc2048_ws1_f32", /* geometry
                                                                                     key
@@ -775,7 +775,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m2048_n64_k2048_lda2048_ldb2048_ldc2048_ws1_f32", /* geometry
                                                                                     key
@@ -794,7 +794,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m2048_n128_k2048_lda2048_ldb2048_ldc2048_ws1_"
           "f32", /* geometry key */
@@ -813,7 +813,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m2048_n7000_k2048_lda2048_ldb2048_ldc2048_ws1_"
           "f32", /* geometry key */
@@ -832,7 +832,7 @@ add_entry(kc,
                                            summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m2560_n16_k2560_lda2560_ldb2560_ldc2560_ws1_f32", /* geometry
                                                                                     key
@@ -851,7 +851,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m2560_n32_k2560_lda2560_ldb2560_ldc2560_ws1_f32", /* geometry
                                                                                     key
@@ -870,7 +870,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m2560_n64_k2560_lda2560_ldb2560_ldc2560_ws1_f32", /* geometry
                                                                                     key
@@ -889,7 +889,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m2560_n128_k2560_lda2560_ldb2560_ldc2560_ws1_"
           "f32", /* geometry key */
@@ -908,7 +908,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m2560_n7000_k2560_lda2560_ldb2560_ldc2560_ws1_"
           "f32", /* geometry key */
@@ -927,7 +927,7 @@ add_entry(kc,
                                            summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m4096_n16_k4096_lda4096_ldb4096_ldc4096_ws1_f32", /* geometry
                                                                                     key
@@ -946,7 +946,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m4096_n32_k4096_lda4096_ldb4096_ldc4096_ws1_f32", /* geometry
                                                                                     key
@@ -965,7 +965,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m4096_n64_k4096_lda4096_ldb4096_ldc4096_ws1_f32", /* geometry
                                                                                     key
@@ -984,7 +984,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m4096_n128_k4096_lda4096_ldb4096_ldc4096_ws1_"
           "f32", /* geometry key */
@@ -1003,7 +1003,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB0_colMaj1_m4096_n7000_k4096_lda4096_ldb4096_ldc4096_ws1_"
           "f32", /* geometry key */
@@ -1022,7 +1022,7 @@ add_entry(kc,
                                            summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m1760_n16_k1760_lda1760_ldb1760_ldc1760_ws1_f32", /* geometry
                                                                                     key
@@ -1041,7 +1041,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m1760_n32_k1760_lda1760_ldb1760_ldc1760_ws1_f32", /* geometry
                                                                                     key
@@ -1060,7 +1060,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m1760_n64_k1760_lda1760_ldb1760_ldc1760_ws1_f32", /* geometry
                                                                                     key
@@ -1079,7 +1079,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m1760_n128_k1760_lda1760_ldb1760_ldc1760_ws1_"
           "f32", /* geometry key */
@@ -1098,7 +1098,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m1760_n7000_k1760_lda1760_ldb1760_ldc1760_ws1_"
           "f32", /* geometry key */
@@ -1117,7 +1117,7 @@ add_entry(kc,
                                            summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m2048_n16_k2048_lda2048_ldb2048_ldc2048_ws1_f32", /* geometry
                                                                                     key
@@ -1136,7 +1136,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m2048_n32_k2048_lda2048_ldb2048_ldc2048_ws1_f32", /* geometry
                                                                                     key
@@ -1155,7 +1155,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m2048_n64_k2048_lda2048_ldb2048_ldc2048_ws1_f32", /* geometry
                                                                                     key
@@ -1174,7 +1174,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m2048_n128_k2048_lda2048_ldb2048_ldc2048_ws1_"
           "f32", /* geometry key */
@@ -1193,7 +1193,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m2048_n7000_k2048_lda2048_ldb2048_ldc2048_ws1_"
           "f32", /* geometry key */
@@ -1212,7 +1212,7 @@ add_entry(kc,
                                            summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m2560_n16_k2560_lda2560_ldb2560_ldc2560_ws1_f32", /* geometry
                                                                                     key
@@ -1231,7 +1231,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m2560_n32_k2560_lda2560_ldb2560_ldc2560_ws1_f32", /* geometry
                                                                                     key
@@ -1250,7 +1250,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m2560_n64_k2560_lda2560_ldb2560_ldc2560_ws1_f32", /* geometry
                                                                                     key
@@ -1269,7 +1269,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m2560_n128_k2560_lda2560_ldb2560_ldc2560_ws1_"
           "f32", /* geometry key */
@@ -1288,7 +1288,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m2560_n7000_k2560_lda2560_ldb2560_ldc2560_ws1_"
           "f32", /* geometry key */
@@ -1307,7 +1307,7 @@ add_entry(kc,
                                            summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m4096_n16_k4096_lda4096_ldb4096_ldc4096_ws1_f32", /* geometry
                                                                                     key
@@ -1326,7 +1326,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m4096_n32_k4096_lda4096_ldb4096_ldc4096_ws1_f32", /* geometry
                                                                                     key
@@ -1345,7 +1345,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m4096_n64_k4096_lda4096_ldb4096_ldc4096_ws1_f32", /* geometry
                                                                                     key
@@ -1364,7 +1364,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m4096_n128_k4096_lda4096_ldb4096_ldc4096_ws1_"
           "f32", /* geometry key */
@@ -1383,7 +1383,7 @@ add_entry(kc,
                                            kernel, summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA1_tB0_colMaj1_m4096_n7000_k4096_lda4096_ldb4096_ldc4096_ws1_"
           "f32", /* geometry key */
@@ -1402,7 +1402,7 @@ add_entry(kc,
                                            summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB1_colMaj1_m1760_n7133_k1760_lda1760_ldb7133_ldc1760_ws1_"
           "f32", /* geometry key */
@@ -1421,7 +1421,7 @@ add_entry(kc,
                                            summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB1_colMaj1_m2048_n7133_k2048_lda2048_ldb7133_ldc2048_ws1_"
           "f32", /* geometry key */
@@ -1440,7 +1440,7 @@ add_entry(kc,
                                            summmary over runs */
 
 add_entry(kc,
-          "gfx803",         /* device key */
+          "generictemp",         /* device key */
           "A_WOS0__B_WOS0", /* constraint key */
           "tC0_tA0_tB1_colMaj1_m2560_n7133_k2560_lda2560_ldb7133_ldc2560_ws1_"
           "f32", /* geometry key */
